@@ -19,7 +19,6 @@ int main()
         }
         cout<<x1 <<endl;
     }
-    
 }
 
 /*
