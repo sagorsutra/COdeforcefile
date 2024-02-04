@@ -37,6 +37,11 @@ int main()
     }
 }
 
+    //Optiaml solution is keep track by a variable. 
+    //If found substr then change varibale value with the loop value otherwise remains the same value.
+
+
+
 /*
 for (int j = 0; j < n*m; j++)
         {
