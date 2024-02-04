@@ -1,0 +1,12 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+	
+	for (int i = 0; i < 5; i++)
+	{
+		cout<<"Fuck you "<<i<<endl;
+	}
+	return 0;
+}

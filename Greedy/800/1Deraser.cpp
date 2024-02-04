@@ -5,6 +5,7 @@ int main()
 {
     int t,n,k,ptime=0;
     string str;
+
     cin>>t;
     while (t--)
     {
@@ -19,7 +20,6 @@ int main()
                 i = i+k-1;
             }
         }
-        
         cout<<count<<endl;
         
     }
